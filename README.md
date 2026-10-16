@@ -36,11 +36,17 @@ node index.js
 ### 📋 Output
 
 5 + 10 = 15
+
 8 - 5 = 3
+
 1 + 5 = 6
+
 0 + 8 = 8
+
 10 * 2 = 20
+
 11 + 11 = 22
+
 
 
 ## Technologies Used
