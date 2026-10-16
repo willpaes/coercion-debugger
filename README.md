@@ -52,6 +52,7 @@ node index.js
 ## Technologies Used
 
 🔵 JavaScript (ES6+)
+
 🟡 Node.js
 
 # Author
