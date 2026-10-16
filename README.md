@@ -52,8 +52,9 @@ node index.js
 
 Developed by Fabio William
 
-LinkedIn | GitHub
+[LinkedIn](https://www.linkedin.com/in/fabio-william-paes-lima-4b31751b4) | [GitHub](https://github.com/willpaes)
 
 ## 📝 License
 
 This project is open source and available under the MIT License.
+
